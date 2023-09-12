@@ -27,3 +27,5 @@ bun install
 ```bash
 bun dev
 ```
+- Frontend: http://localhost:8080/trpc-panel
+- Trpc panel: http://localhost:8080/trpc-panel
